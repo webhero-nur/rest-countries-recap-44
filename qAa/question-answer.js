@@ -1,11 +1,13 @@
 /* 
-#Q1: What is Single Page Application (SPA) and Multy Page Application (MPA)?
+#Q1: Single Page Application (SPA) and Multy Page Application (MPA)?
 
 
-#Q2: Describe the advantages and disadvantages of SPA.
+#Q2: advantages and disadvantages of SPA.
 
 
-#Q3: What are the difference between SPA and MPA?
+#Q3: difference between SPA and MPA?
 
+
+#Q4: HTML attribute vs JS Object properties.
 
 */
